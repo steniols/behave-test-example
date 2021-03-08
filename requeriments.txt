@@ -2,4 +2,4 @@ selenium==3.141.0
 behave==1.2.6
 nose==1.3.7
 python-dotenv==0.15.0
-webdriver-manag
+webdriver-manager==3.3.0
