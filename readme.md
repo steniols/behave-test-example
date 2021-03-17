@@ -9,7 +9,7 @@ This example uses this site: https://s1.demo.opensourcecms.com/s/44 that simulat
 ```
 git clone git@github.com:steniols/behave-test-example.git
 cd behave-test-example
-pip install -r requeriments.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
