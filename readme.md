@@ -11,7 +11,7 @@ git clone git@github.com:steniols/behave-test-example.git
 cd behave-test-example
 cp .env.sample .env
 ```
-Do this nside your virtual environment:
+Do this inside your virtual environment:
 ```
 pip install -r requirements.txt
 ```
