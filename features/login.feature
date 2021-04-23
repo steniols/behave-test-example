@@ -7,7 +7,7 @@ Funcionalidade: realizar login no OpenCMS
     Dado que acesso a página de Login
 
   Cenário: acessar página de Login e realizar o login
-    Dado que preencho o campo username com opensourcecms
-    Dado que preencho o campo de password com opensourcecms
+    Dado que preencho o campo username com Admin
+    Dado que preencho o campo de password com admin123
     Quando clico no botão login
-    Então devo visualizar a tela inicial com No Employees Available
+    Então devo visualizar a tela inicial com Dashboard
