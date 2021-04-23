@@ -6,9 +6,13 @@ This example uses this site: https://s1.demo.opensourcecms.com/s/44 that simulat
 
 ## Getting Started
 
-```
+```bash
 git clone git@github.com:steniols/behave-test-example.git
 cd behave-test-example
+cp .env.sample .env
+```
+Do this nside your virtual environment:
+```
 pip install -r requirements.txt
 ```
 
